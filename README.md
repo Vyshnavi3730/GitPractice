@@ -9,6 +9,8 @@ This is my first project pushed from VS Code to GitHub.
 - git add
 - git commit
 - git push
-
+git add README.md
 
 This is my Git practice project.
+
+
